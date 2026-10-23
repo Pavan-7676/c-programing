@@ -5,7 +5,7 @@ int main(){
     b=5;
     c=a+b;
     d=a-b;
-    printf("%d", c);
+    printf("my name is pavan %d",c);
     return 0;
 
 }
