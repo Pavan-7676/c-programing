@@ -11,5 +11,12 @@
        // char c='a';
        char c;
        c='a';
+       double d=1.5;
+
+        printf("value of a is %d\n",a);
+        printf("value of b is %f\n",b);
+        printf("value of c is %c\n",c);
+        printf("value of d is %lf\n",d);
+
     return 0;
     }
