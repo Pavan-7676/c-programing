@@ -7,6 +7,7 @@ date:10-10-2026
 #include<stdio.h>
 int main(){
     // i am pavan writing this program
-    printf("hello wold");
+    printf("hello world");
+    printf("hello vijay");
     return 0;
     }
